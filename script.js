@@ -186,7 +186,7 @@ function shuffleArray(array){
     return array;
 }
 
-//FUNCTION FROM STACK OVERFLOW. CREDITS: jfriend00 on Stack Overflow!
+
 function animateValue(id, start, end, duration) {    
     var obj = id;
     var range = end - start;
